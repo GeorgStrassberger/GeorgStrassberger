@@ -17,3 +17,8 @@ Here are some ideas to get you started:
 
 <hr>  
 🛠 Tech Stack
+<ul>
+  <li><img src="/assets/images/html.png" alt="HTML5"</li>
+ </ul
+
+<hr>
