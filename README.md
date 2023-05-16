@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 🛠 Tech Stack
 <ul>
   <li><img src="/assets/images/html.png" alt="HTML5"</li>
+  <li><img src="/assets/images/html.png" alt="CSS3"</li>
+  <li><img src="/assets/images/html.png" alt="JavaScript"</li>
+  <li><img src="/assets/images/html.png" alt="TypeScript"</li>
+  <li><img src="/assets/images/html.png" alt="Angular"</li>
  </ul
 
 <hr>
