@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## I'm Georg and on my way from a master precision mechanic to becoming a frontend developer.
-### I love turning ideas into code and experimenting with them.
+### I love turning ideas into code and experimenting with them. I am constantly learning new interesting things and for me it never get bored.
 <!--
 **GeorgStrassberger/GeorgStrassberger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
