@@ -19,20 +19,20 @@ Here are some ideas to get you started:
 
 <hr>  
 🛠 Tech Stack
-<ul>
-  <li style="list-style: none">
+<ul style="list-style: none">
+  <li>
     <img src="/icons/html.png" alt="HTML5" style="height: 48px" />
   </li>
-  <li style="list-style: none">
+  <li>
     <img src="/icons/css.png" alt="CSS3" style="height: 48px" />
   </li>
-  <li style="list-style: none">
+  <li>
     <img src="/icons/javascript.png" alt="JavaScript" style="height: 48px" />
   </li>
-  <li style="list-style: none">
+  <li>
     <img src="/icons/ts-logo-512.png" alt="TypeScript" style="height: 48px" />
   </li>
-  <li style="list-style: none">
+  <li>
     <img src="/icons/git.png" alt="Git" style="height: 48px" />
   </li>
 </ul
