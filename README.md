@@ -5,6 +5,15 @@
 
 
 <hr>  
+🛠 Tech Stack
+HTMLCSSJavaScriptBootstrapAngularReactNode JSPython
+
+
+
+
+VS CodeGitFigma
+<hr>
+
 
 <!--
 **GeorgStrassberger/GeorgStrassberger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
