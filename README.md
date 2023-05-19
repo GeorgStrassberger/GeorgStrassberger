@@ -5,10 +5,12 @@
 
 
 <hr>  
-🛠 Tech Stack
+### 🛠 Tech Stack
 <p align="left">
-  <img src="./icons/html.png" width="50" title="hover text">
-  <img src="./icons/css.png" width="50" alt="accessibility text">
+  <img src="./icons/html.png" width="50" alt="html" title="HTML">
+  <img src="./icons/css.png" width="50" alt="css" title="CSS">
+  <img src="./icons/css.png" width="50" alt="js" title="JS">
+  <img src="./icons/css.png" width="50" alt="ts" title="TS">
 </p>
 <hr>
 
