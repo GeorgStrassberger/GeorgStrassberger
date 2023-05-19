@@ -9,8 +9,8 @@ Tech Stack: 🛠
 <p align="left">
   <img src="./icons/html.png" width="50" alt="html" title="HTML">
   <img src="./icons/css.png" width="50" alt="css" title="CSS">
-  <img src="./icons/css.png" width="50" alt="js" title="JS">
-  <img src="./icons/css.png" width="50" alt="ts" title="TS">
+  <img src="./icons/javascript.png" width="50" alt="js" title="JS">
+  <img src="./icons/ts-logo-512.png" width="50" alt="ts" title="TS">
 </p>
 <hr>
 
