@@ -11,6 +11,9 @@ Tech Stack: 🛠
   <img src="./icons/css.png" width="50" alt="css" title="CSS">
   <img src="./icons/javascript.png" width="50" alt="js" title="JS">
   <img src="./icons/ts-logo-512.png" width="50" alt="ts" title="TS">
+<img src="./icons/visual-studio-code.png" width="50" alt="vsc" title="VSC">
+<img src="./icons/git.png" width="50" alt="git" title="Git">
+  <img src="./icons/rest-api.png" width="50" alt="rest-api" title="REST-API">
 </p>
 <hr>
 
