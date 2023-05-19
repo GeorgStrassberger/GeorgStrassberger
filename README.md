@@ -6,12 +6,10 @@
 
 <hr>  
 🛠 Tech Stack
-HTMLCSSJavaScriptBootstrapAngularReactNode JSPython
-
-
-
-
-VS CodeGitFigma
+<p align="left">
+  <img src="./icons/html.png" width="50" title="hover text">
+  <img src="./icons/css.png" width="50" alt="accessibility text">
+</p>
 <hr>
 
 
