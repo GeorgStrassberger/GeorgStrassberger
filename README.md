@@ -5,7 +5,7 @@
 
 
 <hr>  
-### 🛠 Tech Stack
+### Tech Stack 🛠
 <p align="left">
   <img src="./icons/html.png" width="50" alt="html" title="HTML">
   <img src="./icons/css.png" width="50" alt="css" title="CSS">
