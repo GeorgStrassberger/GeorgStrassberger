@@ -2,6 +2,22 @@
 
 ## I'm Georg and on my way from a master precision mechanic to becoming a frontend developer.
 ### I love turning ideas into code and experimenting with them. I am constantly learning new interesting things and for me it never get bored.
+
+
+<hr>  
+Tech Stack: 🛠
+<p align="left">
+  <img src="./icons/html.png" width="50" alt="html" title="HTML">
+  <img src="./icons/css.png" width="50" alt="css" title="CSS">
+  <img src="./icons/javascript.png" width="50" alt="js" title="JS">
+  <img src="./icons/ts-logo-512.png" width="50" alt="ts" title="TS">
+<img src="./icons/visual-studio-code.png" width="50" alt="vsc" title="VSC">
+<img src="./icons/git.png" width="50" alt="git" title="Git">
+  <img src="./icons/rest-api.png" width="50" alt="rest-api" title="REST-API">
+</p>
+<hr>
+
+
 <!--
 **GeorgStrassberger/GeorgStrassberger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,15 +32,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<hr>  
-🛠 Tech Stack
-<ul>
-  <li><img src="/assets/images/html.png" alt="HTML5"</li>
-  <li><img src="/assets/images/html.png" alt="CSS3"</li>
-  <li><img src="/assets/images/html.png" alt="JavaScript"</li>
-  <li><img src="/assets/images/html.png" alt="TypeScript"</li>
-  <li><img src="/assets/images/html.png" alt="Angular"</li>
- </ul
-
-<hr>
