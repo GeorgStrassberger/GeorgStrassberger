@@ -3,9 +3,9 @@
 
 ### I love turning ideas into code and experimenting with them. I am constantly learning new interesting things and for me it never get bored.
 
- 
+ <hr> 
 ### 🛠 Tech Stack: 
-<hr> 
+
 <p align="left">
   <img src="./icons/html.png" width="50" alt="html" title="HTML">
   <img src="./icons/css.png" width="50" alt="css" title="CSS">
